@@ -7,6 +7,8 @@ A classic Rock Paper Scissors game played against the computer, built with HTML,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 
+🔗 **Live Demo:** [https://shena9y.github.io/rockPaperScissers/](https://shena9y.github.io/rockPaperScissers/)
+
 ## ✨ Features
 
 - 🤖 Play against a bot that picks a random choice each round
